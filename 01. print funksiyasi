@@ -1,0 +1,63 @@
+# 1. PYTHON da o‘zingizning “Familiya va Ismingizni” ekranga chiqaring.
+familiya = 'Baxtiyorov'
+ism = 'Mirjalol'
+print(familiya, ism)
+
+#  2. PYTHON da o‘zingizning “Yo’nalishingizni” ekranga chiqaring.
+print("Men dasturing injiniring yo'nalishida o'qiyman")
+study = 'Muhammad al - Xorazmiy nomidagi Toshkent Axborot Texnologiyalari Universeteti'
+print("Men",study, "o'qiyman")
+#Masala 2. PYTHON da o‘zingizning “Yo’nalishingizni” ekranga chiqaring
+
+fakultetit = 'Komputer injiniring '
+print(fakultetit)
+#Masala 3. PYTHON da o‘zingizning “Universitetingizni nomini” ekranga chiqaring.
+print(study)
+# Masala 5. PYTHON da o‘zingizning “Guruhingiz nomini” ekranga chiqaring.
+guruh_nomi = 'Dasturing injiniring';
+print(guruh_nomi)
+# Masala 6. PYTHON da ushbu gapni “O’zbekiston kelajagi buyuk davlat!” ekranga # chiqaring.
+davlat = "O'znekiston"
+buyuk = "kelajagi buyuk davlat"
+print(davlat,buyuk)
+# Masala 7. PYTHON da ushbu gapni “Men PYTHON dasturlash tilini o‘rganmoqchiman” ekranga chiqaring.
+language = 'python dasturlash tilini'
+print('Men', language,"o'rganmoqchiman")
+# Masala 8. PYTHON da ax+b=0 ifodani kiriting va ekranga chiqaring.
+print('ax+b=0')
+# Masala 9. PYTHON da sinx+cosx=1 ifodani kiriting va ekranga chiqaring.
+a='sinx'
+b='cosx'
+natija = 1
+print(a,'+',b,"=",natija)
+# Masala 10. PYTHON da tgx+ctgx=1 ifodani kiriting va ekranga chiqaring.
+d='tgx';
+c='ctgx'
+natija = 1;
+print(c,"+",d,"=",natija)
+# Masala 11. PYTHON da sinx+ctgx=1+cosx ifodani kiriting va ekranga chiqaring.
+print(a,"+",c,"=",natija,"+",b)
+# Masala 12. PYTHON da ax-by-hz-n=0 ifodani kiriting va ekranga chiqaring.
+# Masala 13. PYTHON da O‘zbekinton Respublikasi madhiyasining birinchi to‘rtligini ekranga chiqaring.
+birinchi = "Serquyosh hur o'lkam elga baxt najot"
+ikkinchi = "Sen o'zing do'stlarga yo'ldish mehribon"
+uchunchi = "Yashnagay to abad ilmi fan ijod"
+turtinchi = "Shuhrating porlasin toki bor jahon"
+print(birinchi)
+print(ikkinchi)
+print(uchunchi)
+print(turtinchi)
+# Masala 14. PYTHON da O‘zbekinton Respubliksi madhiyasining ikkinchi to‘rtligini
+# ekranga chiqaring.
+# Masala 15. PYTHON da O‘zbekinton Respubliksi madhiyasining uchinchi to‘rtligini
+# ekranga chiqaring.
+# Masala 16. PYTHON da ax+by-1=0 ifodani kiriting va ekranga chiqaring.
+a='ax';
+b='by';
+c = 0;
+print(a,"+",b,"-1","=",c)
+# Masala 17. PYTHON da bx=1-k ifodani kiriting va ekranga chiqaring.
+
+a = 'bx';
+b = 'k-i'
+print(a,"=",b)
