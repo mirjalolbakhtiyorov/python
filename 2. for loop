@@ -1,0 +1,49 @@
+mehmonlar = ['Alisher','Alibek', 'Asadbek', 'Abdulloh', 'Hamidulloh']
+for mehmon in mehmonlar:
+    print('Assalomu alekum hurmatli',mehmon)
+    print('Sizni 15-mart kuni iftorlikka taklif etamiz')
+    
+    
+ismlar =  ['Doniyor', 'Ozoda', 'Sarvar', 'Mirjalol']
+for ism in ismlar:
+    print(f"Mening ismim {ism}")
+ # IndentationError: unexpected indent --> surishdagi xatoliklar  
+ # print('Salom')
+
+    print('Siz bilan tanishganimdan xursandman')
+# tsikldan tashqarida alohida bajariladi
+print("Hurmatli dastur foydalanuvchisi")
+
+studentlar = ['Asilbek',"E'zoza", 'Firdavs'];
+for student in studentlar:
+    print('Assalomu alekum Hurmatli Tatu talabasi',student)
+    print('Ahvolingiz yaxshimi?')
+    print('Darsingiz tugadimi, Tugagan bosa uyingizga yaxshi yetib oling.')
+    
+
+# sonning kvadratini hisoblovchi dastur
+sonlar = list(range(1,11))
+for son in sonlar:
+    print(f"{son} ning kvadrati {son**2} ga teng")
+    
+# sonning kvadrati va kubini  hisoblovchi dastur
+sonlar = list(range(1,11))
+for son in sonlar:
+    print(f"{son} ning kvadrati {son**2} ga teng")
+    print(f"{son} ning kubi {son*son*son} ga teng")
+# 3 kara jadval 
+number = list(range(1,11));
+son=3;
+for n in number:
+    print(f"{son}*{n} = {son*n}")
+    
+# 4 kara jadval
+number = list(range(1,11))
+son_turt = 4;
+for k in number:
+    print(f"{son_turt}*{k}={son_turt*k}")
+    
+    mehmonlar = ['Ali','Vali','Hasan', 'Husan','Olim']
+for mehmon in mehmonlar:
+    print(mehmon)
+    print(mehmonlar) # bu qator tsikl tashqarisida bo'lishi kerak edi
