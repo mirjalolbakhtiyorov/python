@@ -1,0 +1,51 @@
+# print "Hello World!"  
+# print("Hello world")
+# SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+# print("Hello World!
+# SyntaxError: unterminated string literal (detected at line 4)
+
+# 1 dan 10 gacha sanash
+# print('1 dan 10 gacha sanash')
+# son = range(10)
+# for k in son:
+#    print(k+1)
+
+
+# berilgan sonni manfiy yoki musbatligini aniqlash
+# son = int (input("Sonni kiriting\n>>>>>>>>>>>>"))
+# if (son>1):
+#    print('Musbat son')
+# elif(son==0):
+#        print("Sonning qiymati nolga teng")
+# else:
+#    ("Manfiy son")
+        
+# istalgan sonni kvadratini hisoblash7
+# k = float(input("Istalgan sonni kiriting\n>>>>>>>>>>>"))
+# print(f"{k} sonning kvadrati {k*k} ga teng")
+
+# mevalarga index orqali murojaat qilish
+# meva = ['olma', 'behi', 'nok','shaftoli']
+# print(meva[0])
+
+# mantiqiy xatolar ustida ishlash
+# x, y = 90, 90;
+# z = x/(x-y);
+# print(z) ZeroDivisionError: division by zero
+
+# aylananing yuzini hisoblash
+# radius = int(input('Sonni kiriting\n>>>>>>>>'))
+# pi = 4.14
+# aylana_yuzi = pi*radius**2
+# print(aylana_yuzi)
+
+# istalgan sondan ildiz olish
+# k = int(input("Sonni kiriting\n>>>>>>>>>>>>>>>"))
+# n = k**(1/2)
+# print(n)
+
+
+
+
+
+
